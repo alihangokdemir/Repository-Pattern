@@ -3,5 +3,5 @@
 <ol>
 <li>Entity Framework Code First development</li>
 <li>Generic Repository Pattern</li>
-<li>Dependency Injection using Autofac framework</li>
+<li>Dependency Injection using Autofac framework test</li>
 </ol>
